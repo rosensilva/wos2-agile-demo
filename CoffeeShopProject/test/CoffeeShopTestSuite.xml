@@ -1,0 +1,11 @@
+<synapse-unit-test>
+    <artifacts>
+        <test-artifact>
+            <artifact>/CoffeeShopProject/src/main/synapse-config/api/CoffeeShopAPI.xml</artifact>
+        </test-artifact>
+        <supportive-artifacts/>
+    </artifacts>
+    <mock-services>
+        <mock-service>/CoffeeShopProject/test/resources/mock-services/CoffeShopBackendMockSuite.xml</mock-service>
+    </mock-services>
+</synapse-unit-test>

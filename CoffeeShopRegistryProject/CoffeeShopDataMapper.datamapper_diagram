@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:datamapper="http:///org/wso2/developerstudio/eclipse/gmf/datamapper" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmi:id="_gxAfMJzgEem08Naq86JDqQ" type="DataMapper" name="CoffeeShopDataMapper.datamapper_diagram" measurementUnit="Pixel">
+  <children xmi:type="notation:Shape" xmi:id="_hAK8kJzgEem08Naq86JDqQ" type="2002" fontName="Ubuntu">
+    <children xmi:type="notation:Shape" xmi:id="_w_zCAJzgEem08Naq86JDqQ" type="3002" fontName="Ubuntu">
+      <children xmi:type="notation:DecorationNode" xmi:id="_w_zpEJzgEem08Naq86JDqQ" type="5002"/>
+      <children xmi:type="notation:Shape" xmi:id="_w_7k4JzgEem08Naq86JDqQ" type="3003" fontName="Ubuntu">
+        <children xmi:type="notation:DecorationNode" xmi:id="_w_8L8JzgEem08Naq86JDqQ" type="5001"/>
+        <children xmi:type="notation:Shape" xmi:id="_xAC5oJzgEem08Naq86JDqQ" type="3020" fontName="Ubuntu">
+          <element xmi:type="datamapper:InNode" href="CoffeeShopDataMapper.datamapper#//@input/@treeNode.0/@node.0/@inNode"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xAC5oZzgEem08Naq86JDqQ" x="-11" y="-9"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_xADgsJzgEem08Naq86JDqQ" type="3019" fontName="Ubuntu">
+          <element xmi:type="datamapper:OutNode" href="CoffeeShopDataMapper.datamapper#//@input/@treeNode.0/@node.0/@outNode"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xADgsZzgEem08Naq86JDqQ"/>
+        </children>
+        <element xmi:type="datamapper:TreeNode" href="CoffeeShopDataMapper.datamapper#//@input/@treeNode.0/@node.0"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_w_7k4ZzgEem08Naq86JDqQ"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_w_8L8ZzgEem08Naq86JDqQ" type="3003" fontName="Ubuntu">
+        <children xmi:type="notation:DecorationNode" xmi:id="_w_8L85zgEem08Naq86JDqQ" type="5001"/>
+        <children xmi:type="notation:Shape" xmi:id="_xANRsJzgEem08Naq86JDqQ" type="3003" fontName="Ubuntu">
+          <children xmi:type="notation:DecorationNode" xmi:id="_xANRspzgEem08Naq86JDqQ" type="5001"/>
+          <children xmi:type="notation:Shape" xmi:id="_xAQVAJzgEem08Naq86JDqQ" type="3020" fontName="Ubuntu">
+            <element xmi:type="datamapper:InNode" href="CoffeeShopDataMapper.datamapper#//@input/@treeNode.0/@node.1/@node.0/@inNode"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xAQVAZzgEem08Naq86JDqQ" x="-11" y="-9"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_xAQVApzgEem08Naq86JDqQ" type="3019" fontName="Ubuntu">
+            <element xmi:type="datamapper:OutNode" href="CoffeeShopDataMapper.datamapper#//@input/@treeNode.0/@node.1/@node.0/@outNode"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xAQVA5zgEem08Naq86JDqQ"/>
+          </children>
+          <element xmi:type="datamapper:TreeNode" href="CoffeeShopDataMapper.datamapper#//@input/@treeNode.0/@node.1/@node.0"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xANRsZzgEem08Naq86JDqQ"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_xANRs5zgEem08Naq86JDqQ" type="3003" fontName="Ubuntu">
+          <children xmi:type="notation:DecorationNode" xmi:id="_xAN4wJzgEem08Naq86JDqQ" type="5001"/>
+          <children xmi:type="notation:Shape" xmi:id="_xAVNgJzgEem08Naq86JDqQ" type="3020" fontName="Ubuntu">
+            <element xmi:type="datamapper:InNode" href="CoffeeShopDataMapper.datamapper#//@input/@treeNode.0/@node.1/@node.1/@inNode"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xAVNgZzgEem08Naq86JDqQ" x="-11" y="-9"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_xAVNgpzgEem08Naq86JDqQ" type="3019" fontName="Ubuntu">
+            <element xmi:type="datamapper:OutNode" href="CoffeeShopDataMapper.datamapper#//@input/@treeNode.0/@node.1/@node.1/@outNode"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xAVNg5zgEem08Naq86JDqQ"/>
+          </children>
+          <element xmi:type="datamapper:TreeNode" href="CoffeeShopDataMapper.datamapper#//@input/@treeNode.0/@node.1/@node.1"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xANRtJzgEem08Naq86JDqQ"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_xAN4wZzgEem08Naq86JDqQ" type="3020" fontName="Ubuntu">
+          <element xmi:type="datamapper:InNode" href="CoffeeShopDataMapper.datamapper#//@input/@treeNode.0/@node.1/@inNode"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xAN4wpzgEem08Naq86JDqQ" x="-1" y="-11"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_xAN4w5zgEem08Naq86JDqQ" type="3019" fontName="Ubuntu">
+          <element xmi:type="datamapper:OutNode" href="CoffeeShopDataMapper.datamapper#//@input/@treeNode.0/@node.1/@outNode"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xAN4xJzgEem08Naq86JDqQ"/>
+        </children>
+        <element xmi:type="datamapper:TreeNode" href="CoffeeShopDataMapper.datamapper#//@input/@treeNode.0/@node.1"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_w_8L8pzgEem08Naq86JDqQ"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_w_8L9JzgEem08Naq86JDqQ" type="3020" fontName="Ubuntu">
+        <element xmi:type="datamapper:InNode" href="CoffeeShopDataMapper.datamapper#//@input/@treeNode.0/@inNode"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_w_8L9ZzgEem08Naq86JDqQ" x="-1" y="-11"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_w_8L9pzgEem08Naq86JDqQ" type="3019" fontName="Ubuntu">
+        <element xmi:type="datamapper:OutNode" href="CoffeeShopDataMapper.datamapper#//@input/@treeNode.0/@outNode"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_w_8L95zgEem08Naq86JDqQ"/>
+      </children>
+      <element xmi:type="datamapper:TreeNode" href="CoffeeShopDataMapper.datamapper#//@input/@treeNode.0"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_w_zCAZzgEem08Naq86JDqQ"/>
+    </children>
+    <element xmi:type="datamapper:Input" href="CoffeeShopDataMapper.datamapper#//@input"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hAK8kZzgEem08Naq86JDqQ" width="250" height="160"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_hALjoJzgEem08Naq86JDqQ" type="2003" fontName="Ubuntu">
+    <children xmi:type="notation:Shape" xmi:id="_ycaxAJzgEem08Naq86JDqQ" type="3011" fontName="Ubuntu">
+      <children xmi:type="notation:DecorationNode" xmi:id="_ycaxApzgEem08Naq86JDqQ" type="5003"/>
+      <children xmi:type="notation:Shape" xmi:id="_ycg3oJzgEem08Naq86JDqQ" type="3003" fontName="Ubuntu">
+        <children xmi:type="notation:DecorationNode" xmi:id="_ycg3opzgEem08Naq86JDqQ" type="5001"/>
+        <element xmi:type="datamapper:TreeNode" href="CoffeeShopDataMapper.datamapper#//@output/@treeNode.0/@node.0"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ycg3oZzgEem08Naq86JDqQ"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_ycg3o5zgEem08Naq86JDqQ" type="3003" fontName="Ubuntu">
+        <children xmi:type="notation:DecorationNode" xmi:id="_ycg3pZzgEem08Naq86JDqQ" type="5001"/>
+        <children xmi:type="notation:Shape" xmi:id="_yclwIJzgEem08Naq86JDqQ" type="3003" fontName="Ubuntu">
+          <children xmi:type="notation:DecorationNode" xmi:id="_yclwIpzgEem08Naq86JDqQ" type="5001"/>
+          <children xmi:type="notation:Shape" xmi:id="_ycoMYJzgEem08Naq86JDqQ" type="3003" fontName="Ubuntu">
+            <children xmi:type="notation:DecorationNode" xmi:id="_ycoMYpzgEem08Naq86JDqQ" type="5001"/>
+            <children xmi:type="notation:Shape" xmi:id="_ycqooJzgEem08Naq86JDqQ" type="3020" fontName="Ubuntu">
+              <element xmi:type="datamapper:InNode" href="CoffeeShopDataMapper.datamapper#//@output/@treeNode.0/@node.1/@node.0/@node.0/@inNode"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ycqooZzgEem08Naq86JDqQ" x="-10" y="4"/>
+            </children>
+            <children xmi:type="notation:Shape" xmi:id="_ycrPsJzgEem08Naq86JDqQ" type="3019" fontName="Ubuntu">
+              <element xmi:type="datamapper:OutNode" href="CoffeeShopDataMapper.datamapper#//@output/@treeNode.0/@node.1/@node.0/@node.0/@outNode"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ycrPsZzgEem08Naq86JDqQ"/>
+            </children>
+            <element xmi:type="datamapper:TreeNode" href="CoffeeShopDataMapper.datamapper#//@output/@treeNode.0/@node.1/@node.0/@node.0"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ycoMYZzgEem08Naq86JDqQ"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_ycoMY5zgEem08Naq86JDqQ" type="3003" fontName="Ubuntu">
+            <children xmi:type="notation:DecorationNode" xmi:id="_ycoMZZzgEem08Naq86JDqQ" type="5001"/>
+            <children xmi:type="notation:Shape" xmi:id="_ycvhIJzgEem08Naq86JDqQ" type="3003" fontName="Ubuntu">
+              <children xmi:type="notation:DecorationNode" xmi:id="_ycvhIpzgEem08Naq86JDqQ" type="5001"/>
+              <children xmi:type="notation:Shape" xmi:id="_ycykcJzgEem08Naq86JDqQ" type="3003" fontName="Ubuntu">
+                <children xmi:type="notation:DecorationNode" xmi:id="_ycykcpzgEem08Naq86JDqQ" type="5001"/>
+                <children xmi:type="notation:Shape" xmi:id="_yc1AsJzgEem08Naq86JDqQ" type="3020" fontName="Ubuntu">
+                  <element xmi:type="datamapper:InNode" href="CoffeeShopDataMapper.datamapper#//@output/@treeNode.0/@node.1/@node.0/@node.1/@node.0/@node.0/@inNode"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_yc1AsZzgEem08Naq86JDqQ" x="-10" y="4"/>
+                </children>
+                <children xmi:type="notation:Shape" xmi:id="_yc1nwJzgEem08Naq86JDqQ" type="3019" fontName="Ubuntu">
+                  <element xmi:type="datamapper:OutNode" href="CoffeeShopDataMapper.datamapper#//@output/@treeNode.0/@node.1/@node.0/@node.1/@node.0/@node.0/@outNode"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_yc1nwZzgEem08Naq86JDqQ"/>
+                </children>
+                <element xmi:type="datamapper:TreeNode" href="CoffeeShopDataMapper.datamapper#//@output/@treeNode.0/@node.1/@node.0/@node.1/@node.0/@node.0"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ycykcZzgEem08Naq86JDqQ"/>
+              </children>
+              <children xmi:type="notation:Shape" xmi:id="_ycykc5zgEem08Naq86JDqQ" type="3003" fontName="Ubuntu">
+                <children xmi:type="notation:DecorationNode" xmi:id="_ycykdZzgEem08Naq86JDqQ" type="5001"/>
+                <children xmi:type="notation:Shape" xmi:id="_yc55MJzgEem08Naq86JDqQ" type="3020" fontName="Ubuntu">
+                  <element xmi:type="datamapper:InNode" href="CoffeeShopDataMapper.datamapper#//@output/@treeNode.0/@node.1/@node.0/@node.1/@node.0/@node.1/@inNode"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_yc55MZzgEem08Naq86JDqQ" x="-10" y="4"/>
+                </children>
+                <children xmi:type="notation:Shape" xmi:id="_yc6gQJzgEem08Naq86JDqQ" type="3019" fontName="Ubuntu">
+                  <element xmi:type="datamapper:OutNode" href="CoffeeShopDataMapper.datamapper#//@output/@treeNode.0/@node.1/@node.0/@node.1/@node.0/@node.1/@outNode"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_yc6gQZzgEem08Naq86JDqQ"/>
+                </children>
+                <element xmi:type="datamapper:TreeNode" href="CoffeeShopDataMapper.datamapper#//@output/@treeNode.0/@node.1/@node.0/@node.1/@node.0/@node.1"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ycykdJzgEem08Naq86JDqQ"/>
+              </children>
+              <children xmi:type="notation:Shape" xmi:id="_ycykdpzgEem08Naq86JDqQ" type="3020" fontName="Ubuntu">
+                <element xmi:type="datamapper:InNode" href="CoffeeShopDataMapper.datamapper#//@output/@treeNode.0/@node.1/@node.0/@node.1/@node.0/@inNode"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ycykd5zgEem08Naq86JDqQ" x="-1" y="-11"/>
+              </children>
+              <children xmi:type="notation:Shape" xmi:id="_yczLgJzgEem08Naq86JDqQ" type="3019" fontName="Ubuntu">
+                <element xmi:type="datamapper:OutNode" href="CoffeeShopDataMapper.datamapper#//@output/@treeNode.0/@node.1/@node.0/@node.1/@node.0/@outNode"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_yczLgZzgEem08Naq86JDqQ"/>
+              </children>
+              <element xmi:type="datamapper:TreeNode" href="CoffeeShopDataMapper.datamapper#//@output/@treeNode.0/@node.1/@node.0/@node.1/@node.0"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ycvhIZzgEem08Naq86JDqQ"/>
+            </children>
+            <children xmi:type="notation:Shape" xmi:id="_ycvhI5zgEem08Naq86JDqQ" type="3020" fontName="Ubuntu">
+              <element xmi:type="datamapper:InNode" href="CoffeeShopDataMapper.datamapper#//@output/@treeNode.0/@node.1/@node.0/@node.1/@inNode"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ycvhJJzgEem08Naq86JDqQ" x="-1" y="-11"/>
+            </children>
+            <children xmi:type="notation:Shape" xmi:id="_ycwIMJzgEem08Naq86JDqQ" type="3019" fontName="Ubuntu">
+              <element xmi:type="datamapper:OutNode" href="CoffeeShopDataMapper.datamapper#//@output/@treeNode.0/@node.1/@node.0/@node.1/@outNode"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ycwIMZzgEem08Naq86JDqQ"/>
+            </children>
+            <element xmi:type="datamapper:TreeNode" href="CoffeeShopDataMapper.datamapper#//@output/@treeNode.0/@node.1/@node.0/@node.1"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ycoMZJzgEem08Naq86JDqQ"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_ycoMZpzgEem08Naq86JDqQ" type="3020" fontName="Ubuntu">
+            <element xmi:type="datamapper:InNode" href="CoffeeShopDataMapper.datamapper#//@output/@treeNode.0/@node.1/@node.0/@inNode"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ycoMZ5zgEem08Naq86JDqQ" x="-1" y="-11"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_ycozcJzgEem08Naq86JDqQ" type="3019" fontName="Ubuntu">
+            <element xmi:type="datamapper:OutNode" href="CoffeeShopDataMapper.datamapper#//@output/@treeNode.0/@node.1/@node.0/@outNode"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ycozcZzgEem08Naq86JDqQ"/>
+          </children>
+          <element xmi:type="datamapper:TreeNode" href="CoffeeShopDataMapper.datamapper#//@output/@treeNode.0/@node.1/@node.0"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_yclwIZzgEem08Naq86JDqQ"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_ycmXMJzgEem08Naq86JDqQ" type="3020" fontName="Ubuntu">
+          <element xmi:type="datamapper:InNode" href="CoffeeShopDataMapper.datamapper#//@output/@treeNode.0/@node.1/@inNode"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ycmXMZzgEem08Naq86JDqQ" x="-1" y="-11"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_ycmXMpzgEem08Naq86JDqQ" type="3019" fontName="Ubuntu">
+          <element xmi:type="datamapper:OutNode" href="CoffeeShopDataMapper.datamapper#//@output/@treeNode.0/@node.1/@outNode"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ycmXM5zgEem08Naq86JDqQ"/>
+        </children>
+        <element xmi:type="datamapper:TreeNode" href="CoffeeShopDataMapper.datamapper#//@output/@treeNode.0/@node.1"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ycg3pJzgEem08Naq86JDqQ"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_ycg3ppzgEem08Naq86JDqQ" type="3020" fontName="Ubuntu">
+        <element xmi:type="datamapper:InNode" href="CoffeeShopDataMapper.datamapper#//@output/@treeNode.0/@inNode"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ycg3p5zgEem08Naq86JDqQ" x="-1" y="-11"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_ychesJzgEem08Naq86JDqQ" type="3019" fontName="Ubuntu">
+        <element xmi:type="datamapper:OutNode" href="CoffeeShopDataMapper.datamapper#//@output/@treeNode.0/@outNode"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ychesZzgEem08Naq86JDqQ"/>
+      </children>
+      <element xmi:type="datamapper:TreeNode" href="CoffeeShopDataMapper.datamapper#//@output/@treeNode.0"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ycaxAZzgEem08Naq86JDqQ"/>
+    </children>
+    <element xmi:type="datamapper:Output" href="CoffeeShopDataMapper.datamapper#//@output"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hALjoZzgEem08Naq86JDqQ" x="310" width="250" height="160"/>
+  </children>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_gxAfMZzgEem08Naq86JDqQ"/>
+  <element xmi:type="datamapper:DataMapperRoot" href="CoffeeShopDataMapper.datamapper#/"/>
+  <edges xmi:type="notation:Connector" xmi:id="_y8Sj4JzgEem08Naq86JDqQ" type="4001" source="_xADgsJzgEem08Naq86JDqQ" target="_ycqooJzgEem08Naq86JDqQ">
+    <styles xmi:type="notation:FontStyle" xmi:id="_y8Sj4ZzgEem08Naq86JDqQ" fontName="Ubuntu"/>
+    <element xmi:type="datamapper:DataMapperLink" href="CoffeeShopDataMapper.datamapper#//@input/@treeNode.0/@node.0/@outNode/@outgoingLink.0"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_y8Sj4pzgEem08Naq86JDqQ" points="[-2, 0, -252, -57]$[248, 57, -2, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_y8f_QJzgEem08Naq86JDqQ" id="CENTER"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_y8f_QZzgEem08Naq86JDqQ" id="CENTER"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_zZgrYJzgEem08Naq86JDqQ" type="4001" source="_xAQVApzgEem08Naq86JDqQ" target="_yc1AsJzgEem08Naq86JDqQ">
+    <styles xmi:type="notation:FontStyle" xmi:id="_zZgrYZzgEem08Naq86JDqQ" fontName="Ubuntu"/>
+    <element xmi:type="datamapper:DataMapperLink" href="CoffeeShopDataMapper.datamapper#//@input/@treeNode.0/@node.1/@node.0/@outNode/@outgoingLink.0"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_zZgrYpzgEem08Naq86JDqQ" points="[-2, 0, -252, -75]$[248, 75, -2, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_zZk80JzgEem08Naq86JDqQ" id="CENTER"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_zZk80ZzgEem08Naq86JDqQ" id="CENTER"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_zw_XQJzgEem08Naq86JDqQ" type="4001" source="_xAVNgpzgEem08Naq86JDqQ" target="_yc55MJzgEem08Naq86JDqQ">
+    <styles xmi:type="notation:FontStyle" xmi:id="_zw_XQZzgEem08Naq86JDqQ" fontName="Ubuntu"/>
+    <element xmi:type="datamapper:DataMapperLink" href="CoffeeShopDataMapper.datamapper#//@input/@treeNode.0/@node.1/@node.1/@outNode/@outgoingLink.0"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_zw_XQpzgEem08Naq86JDqQ" points="[-2, 0, -252, -76]$[248, 76, -2, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_zxBzgJzgEem08Naq86JDqQ" id="CENTER"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_zxBzgZzgEem08Naq86JDqQ" id="CENTER"/>
+  </edges>
+</notation:Diagram>

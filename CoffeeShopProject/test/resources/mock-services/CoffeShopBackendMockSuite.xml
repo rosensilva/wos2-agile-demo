@@ -1,0 +1,22 @@
+<mock-service>
+    <service-name>Legacybackend</service-name>
+    <port>8283</port>
+    <context>/services</context>
+    <resources>
+        <resource>
+            <sub-context>/LegacyBackend</sub-context>
+            <method>POST</method>
+            <response>
+                <status-code>200</status-code>
+                <payload>{
+    "Message": "Successfully placed the order.",
+    "Order details": {
+        "ID": "1234",
+        "Customer Name": "Bob",
+        "Price": "USD 150"
+    }
+}</payload>
+            </response>
+        </resource>
+    </resources>
+</mock-service>
