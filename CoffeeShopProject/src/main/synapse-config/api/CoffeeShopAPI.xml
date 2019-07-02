@@ -61,4 +61,38 @@
         <outSequence/>
         <faultSequence/>
     </resource>
+    <resource methods="POST GET" uri-template="/updateorder">
+        <inSequence>
+            <log>
+                <property name="Message" value="Update Request "/>
+            </log>
+            <payloadFactory media-type="xml">
+                <format>
+                    <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+                        <soapenv:Header/>
+                        <soapenv:Body>
+                            <updateOrder xmlns="">
+                                <orderId>$1</orderId>
+                                <itemId>$2</itemId>
+                                <newItem>$3</newItem>
+                                <newPrice>$4</newPrice>
+                            </updateOrder>
+                        </soapenv:Body>
+                    </soapenv:Envelope>
+                </format>
+                <args>
+                    <arg evaluator="xml" expression="//id"/>
+                    <arg evaluator="xml" expression="//itemid"/>
+                    <arg evaluator="xml" expression="newItemId"/>
+                    <arg evaluator="xml" expression="//newPrice"/>
+                </args>
+            </payloadFactory>
+            <call>
+                <endpoint key="conf:endpoints/CoffeeShopLegacyBackendEP.xml"/>
+            </call>
+            <respond/>
+        </inSequence>
+        <outSequence/>
+        <faultSequence/>
+    </resource>
 </api>
