@@ -103,30 +103,7 @@
           </projectnatures>
         </configuration>
       </plugin>
-      <plugin>
-        <groupId>org.wso2</groupId>
-        <artifactId>synapse-unit-test-maven-plugin</artifactId>
-        <version>1.0-SNAPSHOT</version>
-        <executions>
-          <execution>
-            <id>synapse-unit-test</id>
-            <phase>test</phase>
-            <goals>
-              <goal>SynapseUnitTest</goal>
-            </goals>
-          </execution>
-        </executions>
-        <configuration>
-          <synapseServer>
-            <host>127.0.0.1</host>
-            <unitTestPort>9008</unitTestPort>
-            <localServer>
-              <executionScript>/home/rosen/Documents/IntegrationStudioWithTest/IntegrationStudio/runtime/microesb/bin/micro-integrator.bat</executionScript>
-            </localServer>
-          </synapseServer>
-          <testCasesFilePath>${project.basedir}/test</testCasesFilePath>
-        </configuration>
-      </plugin>
+
       <plugin>
         <groupId>org.wso2.maven</groupId>
         <artifactId>wso2-esb-api-plugin</artifactId>
